@@ -1,9 +1,9 @@
 # 20 Questions
 A terminal based 20 questions game, using a binary tree to "learn" from previous
-games played. This was a project for my CS145 class at Green River Community 
-College in the Fall of 2016. The teacher provided the files: UserInterface.java,
-animals.txt, and question1.txt. I worte the files: QuestionMain.java, 
-QuestionTree.java, QuestionTreeNode.java and question2.txt.
+games played. This was a project for my CS145 class at Green River College in the 
+Fall of 2016. The teacher provided the files: UserInterface.java, animals.txt, 
+and question1.txt. I worte the files: QuestionMain.java, QuestionTree.java, 
+QuestionTreeNode.java and question2.txt.
 
 # Running 20 Questions:
 First Download and compile the project. Next Run the main method found in 
